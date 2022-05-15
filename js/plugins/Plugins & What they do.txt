@@ -1,0 +1,19 @@
+AltMenuScreen3 - Alters the main menu (usually opened with 'X' key) to only have the save and items option.
+
+GALV_MessageSoundEffects - The plugin I use to make the text do typewriter sounds when characters are talking.
+
+GALV_PictureAnims - I use this to play an animation over the game UI(and sprites/images), because by default RPGMaker plays animations BELOW them for some god awful reason, so I had to spend an actual week looking for a plugin that could do it for me. Lo and behold, here it is.
+
+Galv_ScreenButtons - I use this to make clickable images/buttons.
+
+HIME_MovementDirectionLock - If you ever want to lock the keyboard controls of the player, use this.
+
+SRD_HUDMaker - The head honcho of the plugins— I use this one to make the entire UI of the game. Might take a bit to adapt to, so please make sure to watch the proper tutorials for this plugin on youtube.
+
+SRD_SuperToolsEngine - You need this plugin for the plugin above. I also use this to playtest the game easier.
+
+YEP_ExternalLinks - I plan to use this to add an extra selection in the title screen that sends you to a browser link. I'll probably use this for some dynamic feature or something.
+
+YEP_MessageCore - Crucial plugin for text, skipping text and using name boxes. Will give you more deets when I give you a tutorial on these plugins.
+
+YEP_X_MessageBacklog - I use this for the backlog of previous messages.
