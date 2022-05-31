@@ -12,9 +12,13 @@ EdgeKB helped with a lot of the coding
 
 [Weatfeel](twitter/@weatfeels) did most of the pixel art and sprite edits
 
+-------------
 SHOUTOUT TO NANKIDAI YOURE COOL!!!
+
 SHOUTOUT TO THE YTTD WIKI!!
+
 SHOUTOUT TO DEATH WARRENT BY CHANCE!!
+
 SHOUTOUT TO YOUR TURN TO DRAW!!
 
 This was made out of our love for Your Turn to Die.
