@@ -1,5 +1,5 @@
 # Jackleg Participants README
-Created in RPG Maker MV. Last updated 5/31/2022
+Created in RPG Maker MV. Last updated 6/17/2022
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
@@ -42,11 +42,24 @@ Just download RPG Maker MV and just go off through there.
  
 ### 2. Repost the game on another website.
   The game files will forever ONLY be here, the website below and the YTTD Fan Wiki. If you guys see it anywhere else, it is likley either someone taking credit for it, or it's a virus.
+  
+## -Scripts-
+Chapter 1-1 Script - Coming soon
+
+Chapter 1-2 Script - Coming soon
+
+Chapter 2-1 Script - Coming soon
+
+Chapter 2-2 Script - Coming soon
+
+Chapter 3-1 Script - Coming soon
+
+Chapter 3-2 Script - Coming soon
+
 
 ### Additional Notes
 * WORK ON YOUR OWN FAN STUFF! TODAYS MODDERS ARE TOMMOROWS DEVELOPERS!!!! Also this was all made by sanguine1038 (me) and I have no idea what I'm doing with GitHub so
 if anything is out of place here just be paitent.
-* If you wanna know more stuff about the Jackleg Participants go here: https://sanguine-archives.neocities.org/jackleg/jp-home.html (Note this is a sister site to a different project I also have no idea what I'm doing in.)
 * READ THE WIKI!! NOW!
 * Trans rights!
 
