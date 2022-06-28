@@ -1,5 +1,5 @@
 # Jackleg Participants README
-Created in RPG Maker MV. Last updated 6/21/2022
+Created in RPG Maker MV. Last updated 6/28/2022
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
@@ -51,11 +51,6 @@ Chapter 1-2 Script - Coming soon
 Chapter 2-1 Script - Coming soon
 
 Chapter 2-2 Script - Coming soon
-
-Chapter 3-1 Script - Coming soon
-
-Chapter 3-2 Script - Coming soon
-
 
 ### Additional Notes
 * WORK ON YOUR OWN FAN STUFF, I LOVE PLAYING THEM ALL!! 
