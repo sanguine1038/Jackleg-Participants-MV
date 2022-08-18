@@ -1,5 +1,5 @@
 # Jackleg Participants README
-Created in RPG Maker MV. Last updated 8/8/2022
+Created in RPG Maker MV. Last updated 8/18/2022
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
@@ -25,6 +25,8 @@ SHOUTOUT TO YOUR TURN TO DRAW!!
 
 ### -Building the game-
 Just download RPG Maker MV and just go off through there.
+
+It should also be of note that since I move the files from my own laptop to my PC that some files aren't up to date. The _plugin.js_ in the _js_ folder doesn't have all of the used plugins like _YEP_EventClickTrigger_, if you want to build the game yourself you need to enable the plugin through the plugin manager.
 
 ## -What you're allowed to do-
 ###  1. Take code for other RPG Maker MV projects.
