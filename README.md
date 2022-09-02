@@ -1,5 +1,5 @@
 # Jackleg Participants README
-Created in RPG Maker MV. Last updated 8/23/2022
+Created in RPG Maker MV. Last updated 9/2/2022
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
@@ -8,7 +8,7 @@ Created in RPG Maker MV. Last updated 8/23/2022
 
 EdgeKB helped with a lot of the coding
 
-[TommyCatz](twitter.com/@MaskedHajime) did the CGs
+[TommyCatz](twitter.com/@MaskedHajime) did most of the CGs
 
 [Weatfeel](twitter/@weatfeels) did most of the pixel art and sprite edits
 
