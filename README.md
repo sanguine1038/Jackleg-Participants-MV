@@ -1,4 +1,6 @@
 # Jackleg Participants README
+![Gray Logo](https://user-images.githubusercontent.com/74929190/188174222-d369c07c-9c2a-4ae9-9e03-bbbc48faa101.png)
+
 Created in RPG Maker MV. Last updated 9/2/2022
 
 ### -Credits and stuff-
@@ -26,7 +28,7 @@ SHOUTOUT TO YOUR TURN TO DRAW!!
 ### -Building the game-
 Just download RPG Maker MV and just go off through there.
 
-It should also be of note that since I move the files from my own laptop to my PC often, so some files may not up to date. 
+It should also be of note that since I move the files from my own laptop to my PC often, so some files may not up to date. This includes plugins.
 
 ## -What you're allowed to do-
 ###  1. Take code for other RPG Maker MV projects.
