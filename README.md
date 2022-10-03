@@ -1,7 +1,7 @@
 # Jackleg Participants README
 ![Gray Logo](https://user-images.githubusercontent.com/74929190/188174222-d369c07c-9c2a-4ae9-9e03-bbbc48faa101.png)
 
-Created in RPG Maker MV. Last updated 9/2/2022
+Created in RPG Maker MV. Last updated 10/3/2022
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
