@@ -335,7 +335,7 @@ Scene_Base.prototype.slowFadeSpeed = function() {
 
 function Scene_Boot() {
     this.initialize.apply(this, arguments);
-z}
+}
 
 Scene_Boot.prototype = Object.create(Scene_Base.prototype);
 Scene_Boot.prototype.constructor = Scene_Boot;
@@ -788,7 +788,7 @@ Scene_Map.prototype.isMenuEnabled = function() {
 };
 
 Scene_Map.prototype.isMenuCalled = function() {
-    return Input.isTriggered('menu');
+    return Input.isTriggered('menu') || TouchInput.isCancelled();
 };
 
 Scene_Map.prototype.callMenu = function() {
