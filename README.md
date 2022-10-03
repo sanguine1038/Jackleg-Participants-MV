@@ -28,7 +28,7 @@ SHOUTOUT TO YOUR TURN TO DRAW!!
 ### -Building the game-
 Just download RPG Maker MV and just go off through there.
 
-It should also be of note that since I move the files from my own laptop to my PC often, so some files may not up to date. This includes plugins.
+It should also be of note that since I move the files from my own laptop to my PC often, so some files may not up to date. This mainly points to plugins sometimes being the same 
 
 ## -What you're allowed to do-
 ###  1. Take code for other RPG Maker MV projects.
@@ -54,6 +54,7 @@ Chapter 1-1 Script - [Google Doc](https://docs.google.com/document/d/1GZr6EGSm8y
 * WORK ON YOUR OWN FAN STUFF, I LOVE PLAYING THEM ALL!! 
 * This was all made by sanguine1038 (me) and I have no idea what I'm doing with GitHub so
 if anything is out of place here just be paitent.
+* if it becomes too much of a problem i will delete this repository entirely, dont take credit
 * READ THE WIKI!! NOW!
 * Trans rights!
 
