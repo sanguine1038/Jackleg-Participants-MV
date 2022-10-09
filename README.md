@@ -1,7 +1,7 @@
 # Jackleg Participants README
 ![Gray Logo](https://user-images.githubusercontent.com/74929190/188174222-d369c07c-9c2a-4ae9-9e03-bbbc48faa101.png)
 
-Created in RPG Maker MV. Last updated 10/3/2022
+Created in RPG Maker MV. Last updated 10/9/2022
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
@@ -28,7 +28,16 @@ SHOUTOUT TO YOUR TURN TO DRAW!!
 ### -Building the game-
 Just download RPG Maker MV and just go off through there.
 
-It should also be of note that since I move the files from my own laptop to my PC often, so some files may not up to date. This mainly points to plugins sometimes being the same 
+### -Guide for GitHub-
+![aaa](https://user-images.githubusercontent.com/74929190/194777500-cfac3ea1-df89-4611-b0ec-1d3e4ec05040.png) - This icon is placed on events that are still being worked on.
+
+![aaa2](https://user-images.githubusercontent.com/74929190/194777551-c9e0830d-2e40-453b-b423-128eecc98ac2.png) - This icon is placed on events that are removed but not deleted. This could be for whatever reason.
+
+![aaa3](https://user-images.githubusercontent.com/74929190/194777575-941d3fa6-8432-4830-988f-b51ff716db90.png) - This icon is placed on events that have been put in by someone via GitHub. (Here!)
+
+![aaa4](https://user-images.githubusercontent.com/74929190/194777621-15cc6a42-248f-49f9-9825-746687372ed8.png) - This icon is placed on events that are for testing purposes.
+
+__It should also be of note that since I move the files from my own laptop to my PC often, so some files may not up to date. This mainly points to plugins sometimes being the same.__
 
 ## -What you're allowed to do-
 ###  1. Take code for other RPG Maker MV projects.
