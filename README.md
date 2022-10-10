@@ -1,7 +1,7 @@
 # Jackleg Participants README
 ![Gray Logo](https://user-images.githubusercontent.com/74929190/188174222-d369c07c-9c2a-4ae9-9e03-bbbc48faa101.png)
 
-Created in RPG Maker MV. Last updated 10/9/2022
+Created in RPG Maker MV. Last updated 10/10/2022
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
@@ -60,6 +60,7 @@ __It should also be of note that since I move the files from my own laptop to my
 Chapter 1-1 Script - [Google Doc](https://docs.google.com/document/d/1GZr6EGSm8yFUxB7u6lelh73EPIXs-4oFWQczQXYC1Wg/edit?usp=sharing)
 
 ### Additional Notes
+* the "docs" and "art" can both be ignored, as their not actually used in game. meaning you can delete them
 * WORK ON YOUR OWN FAN STUFF, I LOVE PLAYING THEM ALL!! 
 * This was all made by sanguine1038 (me) and I have no idea what I'm doing with GitHub so
 if anything is out of place here just be paitent.
