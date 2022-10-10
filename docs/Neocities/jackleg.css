@@ -1,0 +1,52 @@
+body {
+	line-height: 1;
+	background-color: black;
+
+	text-align: center;
+}
+
+b{
+	font-size: 120%;
+	font-family: Verdana;
+	line-height: 125%;
+	padding: 10px;
+	padding-top: 15px;
+	background-color: black;
+	outline: 2px solid yellow;
+	color: white
+}
+
+p{
+	font-size: 120%;
+	font-family: Verdana;
+	line-height: 125%;
+	padding: 10px;
+	padding-top: 15px;
+	background-color: black;
+	outline: 2px solid yellow;
+	color: white
+}
+
+p a{
+	color:red;
+	text-decoration: none;
+}
+p a:hover{
+	color: red;
+	text-decoration: underline;
+}
+
+UL{
+	font-size: 110%;
+	font-family: Verdana;
+	line-height: 125%;
+	padding-right: 50px;
+	padding-left: 50px;
+	background-color: pink;
+	outline: 2px solid red;
+}
+
+.myClass{
+	text-align: left;
+	outline: 2px red dashed;
+}
