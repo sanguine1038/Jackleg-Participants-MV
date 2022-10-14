@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<style> 
+
+    const message = document.getElementById('message');
+    message.addEventListener('input', function handleChange(event) {
+    console.log(event.target.value);
+    });
+    
+    .collapse {
+        background-color: #a2de96;
+        border: none;
+        outline: none;
+        font-size: 25px;
+    }
+   
+    .active,
+    .collapse:hover {
+        background-color: #438a5e;
+    }
+   
+    .text {
+        background-color: #e1ffc2;
+        display: none;
+        font-size: 20px;
+    }
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASU-NARO / Kai Satou (Private)</title>         
+    <link href="/jackleg/jackleg2.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+  
+    <label for="message">Username:</label>
+    <textarea id="message" name="message" rows="1" cols="33"></textarea><br>
+    <label for="message">Password:</label>
+    <textarea id="message" name="message" rows="1" cols="33"></textarea><br>
+    
+    <button type="button" class="collapse">
+  Login
+  </button>
+      
+    <div class="text">
+        Kai Satou
+    </div>
+   
+    <script>
+        var btn = document.getElementsByClassName("collapse");
+   
+        btn[0].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+  
+    </script>
+
+    <script src="index.js"></script>
+  </body>
+</html>
