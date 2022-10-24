@@ -14,7 +14,7 @@ null,
 {"id":12,"expanded":false,"name":"Bar2","order":16,"parentId":3,"scrollX":534,"scrollY":323},
 {"id":13,"expanded":true,"name":"MAP013","order":24,"parentId":10,"scrollX":534,"scrollY":323},
 {"id":14,"expanded":true,"name":"anzu - blue room","order":25,"parentId":13,"scrollX":819,"scrollY":457},
-{"id":15,"expanded":false,"name":"Minigame","order":26,"parentId":14,"scrollX":534,"scrollY":323},
+{"id":15,"expanded":false,"name":"Minigame","order":26,"parentId":14,"scrollX":819,"scrollY":457},
 {"id":16,"expanded":false,"name":"Red room2","order":21,"parentId":6,"scrollX":534,"scrollY":323},
 {"id":17,"expanded":false,"name":"Bar3","order":17,"parentId":3,"scrollX":534,"scrollY":323},
 {"id":18,"expanded":false,"name":"Cafe3","order":29,"parentId":5,"scrollX":591.2727272727273,"scrollY":328.3636363636364},
@@ -45,5 +45,5 @@ null,
 {"id":43,"expanded":false,"name":"Prologue2.2","order":5,"parentId":41,"scrollX":832,"scrollY":640},
 {"id":44,"expanded":false,"name":"Prologue2.3","order":6,"parentId":41,"scrollX":534,"scrollY":323},
 {"id":45,"expanded":false,"name":"Prologue2.4","order":7,"parentId":41,"scrollX":832,"scrollY":640},
-{"id":46,"expanded":false,"name":"Floor 1 5","order":14,"parentId":2,"scrollX":591.2727272727273,"scrollY":328.3636363636364}
+{"id":46,"expanded":false,"name":"Floor 1 5","order":14,"parentId":2,"scrollX":819,"scrollY":457}
 ]
