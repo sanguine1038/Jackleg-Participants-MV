@@ -55,9 +55,6 @@ __It should also be of note that since I move the files from my own laptop to my
  
 ### 2. Repost the game on another website.
   The game files will forever ONLY be here, the website below and the YTTD Fan Wiki. If you guys see it anywhere else, it is likley either someone taking credit for it, or it's a virus.
-  
-## -Scripts-
-Chapter 1-1 Script - [Google Doc](https://docs.google.com/document/d/1GZr6EGSm8yFUxB7u6lelh73EPIXs-4oFWQczQXYC1Wg/edit?usp=sharing)
 
 ### Additional Notes
 * the "docs" and "art" can both be ignored, as their not actually used in game. meaning you can delete them
