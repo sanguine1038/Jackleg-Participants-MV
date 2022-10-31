@@ -45,7 +45,7 @@ null,
 {"id":43,"expanded":false,"name":"Prologue2.2","order":5,"parentId":41,"scrollX":832,"scrollY":640},
 {"id":44,"expanded":false,"name":"Prologue2.3","order":6,"parentId":41,"scrollX":534,"scrollY":323},
 {"id":45,"expanded":false,"name":"Prologue2.4","order":7,"parentId":41,"scrollX":819,"scrollY":457},
-{"id":46,"expanded":false,"name":"Floor 1 5","order":14,"parentId":2,"scrollX":819,"scrollY":457},
+{"id":46,"expanded":false,"name":"Floor 1 5","order":14,"parentId":2,"scrollX":534,"scrollY":323},
 {"id":47,"expanded":false,"name":"Kitchen - Dark","order":35,"parentId":24,"scrollX":819,"scrollY":457},
-{"id":48,"expanded":false,"name":"Main room2 - Obstructor","order":37,"parentId":35,"scrollX":819,"scrollY":457}
+{"id":48,"expanded":false,"name":"Main room2 - Obstructor","order":37,"parentId":35,"scrollX":534,"scrollY":323}
 ]
