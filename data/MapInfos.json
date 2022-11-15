@@ -48,6 +48,6 @@ null,
 {"id":46,"expanded":false,"name":"Floor 1 5","order":14,"parentId":2,"scrollX":534,"scrollY":323},
 {"id":47,"expanded":false,"name":"Kitchen - Dark","order":37,"parentId":24,"scrollX":819,"scrollY":457},
 {"id":48,"expanded":false,"name":"Main room - Obstructor","order":39,"parentId":35,"scrollX":534,"scrollY":323},
-{"id":49,"expanded":false,"name":"blueroom5","order":28,"parentId":10,"scrollX":591.2727272727273,"scrollY":328.3636363636364},
+{"id":49,"expanded":false,"name":"blueroom5","order":28,"parentId":10,"scrollX":534,"scrollY":323},
 {"id":50,"expanded":false,"name":"Game room3","order":20,"parentId":4,"scrollX":0,"scrollY":0}
 ]
