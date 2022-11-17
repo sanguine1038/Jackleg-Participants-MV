@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"Prologue","order":2,"parentId":23,"scrollX":534,"scrollY":301},
 {"id":2,"expanded":false,"name":"Floor 1","order":11,"parentId":23,"scrollX":534,"scrollY":323},
 {"id":3,"expanded":false,"name":"Bar","order":16,"parentId":23,"scrollX":591.2727272727273,"scrollY":328.3636363636364},
-{"id":4,"expanded":false,"name":"Game room","order":19,"parentId":23,"scrollX":534,"scrollY":323},
+{"id":4,"expanded":true,"name":"Game room","order":19,"parentId":23,"scrollX":534,"scrollY":323},
 {"id":5,"expanded":false,"name":"Cafe","order":30,"parentId":23,"scrollX":534,"scrollY":301},
 {"id":6,"expanded":false,"name":"Red room","order":22,"parentId":23,"scrollX":534,"scrollY":323},
 {"id":7,"expanded":false,"name":"testing","order":35,"parentId":23,"scrollX":534,"scrollY":323},
@@ -50,5 +50,5 @@ null,
 {"id":48,"expanded":false,"name":"Main room - Obstructor","order":40,"parentId":35,"scrollX":534,"scrollY":323},
 {"id":49,"expanded":false,"name":"blueroom5","order":29,"parentId":10,"scrollX":534,"scrollY":323},
 {"id":50,"expanded":false,"name":"Game room3","order":21,"parentId":4,"scrollX":534,"scrollY":301},
-{"id":51,"expanded":false,"name":"Prologue9","order":10,"parentId":1,"scrollX":534,"scrollY":301}
+{"id":51,"expanded":false,"name":"Prologue9","order":10,"parentId":1,"scrollX":819,"scrollY":457}
 ]
