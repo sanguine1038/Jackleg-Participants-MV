@@ -6,6 +6,8 @@ Created in RPG Maker MV. Last updated 10/10/2022
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
 
+[gingus doon](https://twitter.com/gingus_doon) helped with editing the script
+
 [birdiepooo](twitter/@birdiepooo) did some sprite edits of certain characters
 
 EdgeKB helped with a lot of the coding
