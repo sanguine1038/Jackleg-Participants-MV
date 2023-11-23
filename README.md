@@ -1,7 +1,7 @@
 # Jackleg Participants README
 ![Gray Logo](https://user-images.githubusercontent.com/74929190/188174222-d369c07c-9c2a-4ae9-9e03-bbbc48faa101.png)
 
-Created in RPG Maker MV. Last updated 10/10/2022
+Created in RPG Maker MV. Last updated 11/23/2023
 
 ### -Credits and stuff-
 [sanguine1038](twitter.com/@sanguine1038) (me) did all the writing, coding, ran [twitter account](twitter.com/@YTTDJP) and suffering
@@ -43,7 +43,7 @@ __It should also be of note that since I move the files from my own laptop to my
 
 ## -What you're allowed to do-
 ###  1. Take code for other RPG Maker MV projects.
- This includes the discussion tab code, only reason you're allowed to do that is because someone on reddit said they had the code for it and never shared it so to spite that person I'm leaving it here. SUCK IT u/DapperNachos EAT MY GIANT ENBY BALLS
+ This includes the discussion tab code, only reason you're allowed to do that is because someone on reddit said they had the code for it and never shared it so to spite that person I'm leaving it here. SUCK IT u/DapperNachos 
 
 ### 2. Take the code for other YTTD projects.
   Gotta make sure that it gets everywhere to cuck DapperNachos.
